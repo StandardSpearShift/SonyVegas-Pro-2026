@@ -1,4 +1,4 @@
-# 🎬 Sony-Vegas-Pro
+# 🎬 Sony Vegas Pro 2026
 ### Professional project templates, video effects presets, and workflow automation tools for Sony Vegas Pro, designed for educational video production.
 
 ---
